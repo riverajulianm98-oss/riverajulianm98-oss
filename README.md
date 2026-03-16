@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Juli Rivera
 
 👨‍💻 **Desarrollador Backend en Python | Asistente Virtual | Creador de Contenido Digital**
@@ -23,13 +21,13 @@
 
 ## 🌟 Proyectos Destacados
 
-| Proyecto                 | Descripción                                                           | Link                                                                |
-| ------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| SIG-WEBSITE              | Página web profesional para empresa mostrando habilidades y proyectos | [Ver](https://riverajulianm98-oss.github.io/SIG-WEBSITE/)           |
-| Aditi                    | Sistema de IA personal que aprende y asiste en tareas automatizadas   | [Ver](#)                                                            |
-| Generador de Contraseñas | Herramienta para crear contraseñas seguras automáticamente            | [Ver](https://github.com/riverajulianm98-oss/generador-contrasenas) |
-| MyProfile                | Proyecto para crear y gestionar perfiles personales interactivos      | [Ver](https://github.com/riverajulianm98-oss/myprofile)             |
-| Backend en Python        | APIs y servicios web con FastAPI y bases de datos                     | [Ver](#)                                                            |
+| Proyecto                 | Descripción                                                         | Link                                                                               |
+| ------------------------ | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| MyProfile                | Mi portafolio oficial, mostrando habilidades y proyectos            | [Ver](https://myprofile-git-main-riverajulianm98-oss-projects.vercel.app/#contact) |
+| SIG-WEBSITE              | Proyecto para empresa, página web mostrando información y servicios | [Ver](https://riverajulianm98-oss.github.io/SIG-WEBSITE/)                          |
+| Generador de Contraseñas | Herramienta para crear contraseñas seguras automáticamente          | [Ver](https://github.com/riverajulianm98-oss/generador-contrasenas)                |
+| MyProfile Repo           | Código fuente de mi portafolio                                      | [Ver](https://github.com/riverajulianm98-oss/myprofile)                            |
+| Backend en Python        | APIs y servicios web con FastAPI y bases de datos                   | [Ver](#)                                                                           |
 
 ---
 
